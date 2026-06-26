@@ -7,5 +7,5 @@ class MahasiswaBidikmisi extends Mahasiswa {
         $this->kip = $kip; $this->dana = $dana;
     }
     public function hitungTagihanSemester() { return 0; }
-    public function tampilkanSpesifikasiAkademik() { return "No KIP: {$this->kip}, Dana Saku: Rp " . number_format($this->dana); }
+    public function tampilkanSpesifikasiAkademik() { return "KIP: {$this->kip}, Dana: Rp " . number_format($this->dana); }
 }
