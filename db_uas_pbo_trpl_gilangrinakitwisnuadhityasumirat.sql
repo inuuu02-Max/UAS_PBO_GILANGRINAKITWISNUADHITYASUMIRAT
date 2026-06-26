@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost:3306
--- Generation Time: Jun 26, 2026 at 02:41 AM
+-- Generation Time: Jun 26, 2026 at 02:50 AM
 -- Server version: 8.4.3
 -- PHP Version: 8.3.30
 
@@ -18,7 +18,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `db_mahasiswa`
+-- Database: `db_uas_pbo_trpl_gilangrinakitwisnuadhityasumirat`
 --
 
 -- --------------------------------------------------------
